@@ -1,6 +1,6 @@
 baseurl = "https://ymoutrane.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Academic"
-copyright = "&copy; 2017 Your Name"
+title = "ymoutrane"
+copyright = "&copy; 2017 ymoutrane"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -39,8 +39,8 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Moutrane Youssef"
+  role = "Expert Système d'information"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  logo = "digital-improve.jpg"
 
   # Enable Google Maps by entering your API key, latitude, and longitude.
   #   Get your API key: https://developers.google.com/maps/documentation/javascript/get-api-key
